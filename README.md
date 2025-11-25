@@ -8,7 +8,7 @@ https://github.com/datenstrom/community/discussions/1060
 
 ## Helpful link
 
-* https://regex101.com/r/dVeb9U/1
+* https://regex101.com/
 
 ## Developer
 PetersOtto. [Get help](https://datenstrom.se/yellow/help/)
