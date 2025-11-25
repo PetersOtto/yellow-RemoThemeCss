@@ -9,7 +9,6 @@ class YellowRemoThemeCss {
     }
 
     // Handle page content element
-    // https://regex101.com/r/dVeb9U/1
     public function onParsePageOutput($page, $text) {
         $output = null;
         $themeName = strtolower($this->yellow->system->get("theme"));
